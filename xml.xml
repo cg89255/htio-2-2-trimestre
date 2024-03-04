@@ -1,0 +1,2419 @@
+<pedidos>
+  <anio año="2021">
+    <trimestre numero="1">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+    </trimestre> <!--cierre tr1-->
+    <trimestre numero="2">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+      </trimestre> <!--cierre tr2-->
+
+    <trimestre numero="3">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+      </trimestre> <!--cierre TR3-->
+
+    <trimestre numero="4">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+    </trimestre> <!--cierre TR4-->
+
+    </anio> <!--cierre AÑO1-->
+
+  <anio año="2022">
+    <trimestre numero="1">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+    </trimestre> <!--cierre tr1-->
+    <trimestre numero="2">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+      </trimestre> <!--cierre tr2-->
+    <trimestre numero="3">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+      </trimestre> <!--cierre TR3-->
+
+    <trimestre numero="4">
+      <pedido> <!-- Pedido 1_REC -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>001</numero_pedido>
+          <fecha_compra>2022-10-03</fecha_compra>
+          <fecha_entrega>2022-10-19</fecha_entrega>
+          <total_factura>45.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta negra</nombre>
+              <referencia>CAM002</referencia>
+              <precio>45.00</precio>
+              <unidades>1</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 2_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>002</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>  <!-- Pedido 3_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>003</numero_pedido>
+          <fecha_compra>2022-01-05</fecha_compra>
+          <fecha_entrega>2022-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>25.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 4_REC -->  
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>004</numero_pedido>
+          <fecha_compra>2021-01-06</fecha_compra>
+          <fecha_entrega>2021-01-11</fecha_entrega>
+          <total_factura>20.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Calcetines</nombre>
+              <referencia>CAL001</referencia>
+              <precio>10.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+
+      <pedido>  <!-- Pedido 5_REC --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>005</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 6 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>006</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>10.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Guantes</nombre>
+              <referencia>GUA001</referencia>
+              <precio>5.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>       
+      </pedido>
+
+      <pedido>  <!-- Pedido 7 -->   
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>007</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>     
+      </pedido>
+
+      <pedido>  <!-- Pedido 8 -->
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>008</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>        
+      </pedido>
+
+      <pedido>  <!-- Pedido 9 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>009</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>
+      </pedido>
+
+      <pedido>   <!-- Pedido 10 --> 
+        <cliente>
+          <nombre>Juan</nombre>
+          <apellidos>García Pérez</apellidos>
+          <telefono>123456789</telefono>
+          <direccion>
+            <calle>Calle Mayor, 10</calle>
+            <ciudad>Madrid</ciudad>
+            <codigo_postal>28001</codigo_postal>
+            <provincia>Madrid</provincia>
+          </direccion>
+          <correo_electronico>juan@gmail.com</correo_electronico>
+          <fecha_inclusion>2021-01-05</fecha_inclusion>
+        </cliente>
+        <detalle_pedido>
+          <numero_pedido>010</numero_pedido>
+          <fecha_compra>2021-01-05</fecha_compra>
+          <fecha_entrega>2021-01-10</fecha_entrega>
+          <total_factura>50.00</total_factura>
+          <productos>
+            <producto>
+              <nombre>Camiseta básica</nombre>
+              <referencia>CAM001</referencia>
+              <precio>20.00</precio>
+              <unidades>2</unidades>
+            </producto>
+          </productos>
+        </detalle_pedido>    
+      </pedido>
+    </trimestre> <!--cierre TR4-->            
+  </anio> <!--cierre AÑO2-->
+</pedidos>
